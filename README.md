@@ -2,6 +2,8 @@
 
 A simple, secure password generator with a graphical user interface built using Python's Tkinter library.
 
+![image](https://github.com/user-attachments/assets/e60b9220-a331-4b34-b1c7-9a95b7adf43c)
+
 ## Overview
 
 This project provides a user-friendly GUI that lets you generate a secure password with customizable options:
@@ -25,3 +27,9 @@ The application leverages Python's built-in `secrets` module for cryptographical
    ```bash
    git clone https://github.com/yourusername/tkinter-password-generator.git
    cd tkinter-password-generator
+
+2. **Run the Application:**
+Ensure you have Python installed (Python 3.x recommended).
+   ```bash
+   python password_generator_ui.py
+Note: Tkinter comes bundled with most Python installations. If you're on Linux and encounter issues, you might need to install it (e.g., sudo apt-get install python3-tk).
